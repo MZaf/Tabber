@@ -1,1 +1,1 @@
-Example of tab navigator customization.
+Example of React Native tab navigator customization.
